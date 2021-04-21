@@ -9,4 +9,4 @@ For each component: code, picture, and output are given.
 
 1. Picam v2: (folder named picam)
     * Camera attchment for raspberry
-    * [Datasheet](https://cdn.sparkfun.com/datasheets/Dev/RaspberryPi/RPiCamMod2.pdf)
+    * [Documentation](https://picamera.readthedocs.io/en/release-1.12/install.html)
