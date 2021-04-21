@@ -1,0 +1,5 @@
+1. sudo apt-get install python-picamera python3-picamera
+2. switch off pi, connect camera as shown in attached image
+3. switch it on, go to preferences>raspi cofig>interface>enable camera
+4. reboot
+5. raspistill -o image.jpg
